@@ -1,4 +1,4 @@
-# ecsSystem
+#ECS-System
 
 A ECS(Entity Component System) system developed by javascript.
 
